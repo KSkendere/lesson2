@@ -1,0 +1,32 @@
+mural - freska
+white boarding tools
+
+
+centralized
+Distibruted (git)git
+
+code repository - krātuve, glabātava
+
+git clone - 
+cd lesson2/ or cd less + tab
+
+or right click from second directory - open
+
+git add . - scan  directory for changes
+
+$ git commit -m "Initial commit"
+
+git push
+
+
+git push - retrieving all changes we have made locally and pushed to server (git hub) - takes files from directory end sends them to github
+
+git pull - retvieres everything from server
+
+git clone is done only one time
+
+repository - 1 project
+
+soout
+ 
+
